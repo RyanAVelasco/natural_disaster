@@ -1,0 +1,11 @@
+Top Event ID,Top Event Death toll (Highest estimate) ,Top Event Name,Top Event Location ,Top Event Date ,Top Event Note,disaster_id
+event_1,4000000,1931 China floods ,China ,1931-07-01,"No day given, so 01 is a placeholder day.",disaster_28
+event_2,2000000,1887 Yellow River flood ,China ,1887-09-01,"No day given, so 01 is a placeholder day.",
+event_3,830000,1556 Shaanxi earthquake ,China ,1556-01-23,,
+event_4,655000,1976 Tangshan earthquake ,China ,1976-07-28,,disaster_85
+event_5,316000,2010 Haiti earthquake ,Haiti ,2010-01-12,,disaster_140
+event_6,300000,1970 Bhola cyclone ,Bangladesh,1970-11-13,,disaster_74
+event_7,300000,526 Antioch earthquake ,Turkey,0526-05-01,"No day given, so 01 is a placeholder day.",
+event_8,300000,1839 Coringa cyclone ,India ,1839-11-25,,
+event_9,273400,1920 Haiyuan earthquake ,China ,1920-12-16,,disaster_7
+event_10,229000,Typhoon Nina ,China ,1975-08-07,,disaster_84

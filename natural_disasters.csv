@@ -1,0 +1,160 @@
+Event Disaster ID,Event Name,Countries affected ,Event Disaster Type ,Event Death toll (Estimate)
+disaster_1,1917 Guatemala earthquakes ,Guatemala ,Earthquake ,2650
+disaster_2,1918 Shantou earthquake ,China,Earthquake ,1000
+disaster_3,1918 Shantou earthquake ,Taiwan,Earthquake ,1000
+disaster_4,1918 Shantou earthquake ,Philippines ,Earthquake ,1000
+disaster_5,1919 Florida Keys hurricane ,United States ,Tropical cyclone ,772
+disaster_6,1920 Haiyuan earthquake ,Mongolia ,Earthquake ,236700
+disaster_7,1920 Haiyuan earthquake ,China ,Earthquake ,236700
+disaster_8,September 1921 San Antonio floods ,United States ,Flood ,215
+disaster_9,1922 Swatow typhoon ,Philippines ,Tropical cyclone ,75000
+disaster_10,1922 Swatow typhoon ,China ,Tropical cyclone ,75000
+disaster_11,1923 Great Kantō earthquake ,Japan ,Earthquake ,142800
+disaster_12,1924 India floods ,India ,Flood ,1000
+disaster_13,1925 Dali earthquake ,China ,Earthquake ,5000
+disaster_14,1926 Havana–Bermuda hurricane ,Cuba ,Tropical cyclone ,709
+disaster_15,1926 Havana–Bermuda hurricane ,United States,Tropical cyclone ,709
+disaster_16,1926 Havana–Bermuda hurricane ,Bahamas ,Tropical cyclone ,709
+disaster_17,1926 Havana–Bermuda hurricane ,Bermuda ,Tropical cyclone ,709
+disaster_18,1927 Gulang earthquake ,China,Earthquake ,40900
+disaster_19,1927 Gulang earthquake ,Tibet ,Earthquake ,40900
+disaster_20,1928 Okeechobee hurricane ,United States,Tropical cyclone ,4112
+disaster_21,1928 Okeechobee hurricane ,Puerto Rico,Tropical cyclone ,4112
+disaster_22,1928 Okeechobee hurricane ,Guadeloupe,Tropical cyclone ,4112
+disaster_23,1928 Okeechobee hurricane ,Bahamas,Tropical cyclone ,4112
+disaster_24,1928 Okeechobee hurricane ,Dominica,Tropical cyclone ,4112
+disaster_25,1929 Kopet Dag earthquake ,Iran,Earthquake ,3529
+disaster_26,1929 Kopet Dag earthquake ,Turkmenistan ,Earthquake ,3529
+disaster_27,1930 San Zenón hurricane ,Dominican Republic ,Tropical cyclone ,3529
+disaster_28,1931 China floods ,China ,Flood ,2211250
+disaster_29,1932 Cuba hurricane ,Cayman Islands,Tropical cyclone ,3103
+disaster_30,1932 Cuba hurricane ,Cuba ,Tropical cyclone ,3103
+disaster_31,1933 Diexi earthquake ,China ,Earthquake ,8083
+disaster_32,1934 Nepal–India earthquake ,Nepal ,Earthquake,11350
+disaster_33,1934 Nepal–India earthquake ,India ,Earthquake,11350
+disaster_34,1935 Quetta earthquake ,Pakistan ,Earthquake,45000
+disaster_35,1936 North American heat wave ,United States,Heat wave ,5000
+disaster_36,1936 North American heat wave ,Canada ,Heat wave ,5000 
+disaster_37,1937 Great Hong Kong typhoon ,China ,Tropical cyclone ,11021
+disaster_38,1938 Hanshin flood ,Japan ,Flood ,715
+disaster_39,1939 Erzincan earthquake ,Turkey ,Earthquake ,32834
+disaster_40,1940 Vrancea earthquake ,Romania ,Earthquake,1000
+disaster_41,1941 Jabal Razih earthquake ,Yemen ,Earthquake,1200
+disaster_42,1942 West Bengal cyclone ,India ,Tropical cyclone ,61000
+disaster_43,1943 Tosya–Ladik earthquake ,Turkey ,Earthquake ,4020
+disaster_44,1944 San Juan earthquake ,Argentina ,Earthquake,10000
+disaster_45,1945 Balochistan earthquake ,India ,Earthquake,4000
+disaster_46,1945 Balochistan earthquake ,Pakistan ,Earthquake,4000
+disaster_47,1946 Dominican Republic earthquake ,Dominican Republic ,Earthquake,2550
+disaster_48,Typhoon Kathleen ,Japan ,Tropical cyclone ,1077
+disaster_49,1948 Ashgabat earthquake ,Russia ,Earthquake ,60000
+disaster_50,1948 Ashgabat earthquake ,Iran ,Earthquake ,60000
+disaster_51,1949 Eastern Guatemalan floods ,Guatemala ,Flood ,4000
+disaster_52,1950 Pakistan flood ,Pakistan ,Flood,2910
+disaster_53,1951 Manchuria flood ,China ,Flood,4800
+disaster_54,1952 Severo-Kurilsk earthquake ,Russia ,Earthquake ,2336
+disaster_55,1953 Northern Kyushu flood ,Japan ,Flood ,771
+disaster_56,1954 Yangtze floods ,China ,Flood,33000
+disaster_57,Hurricane Janet ,Lesser Antilles,Tropical cyclone ,1023
+disaster_58,Hurricane Janet ,Mexico ,Tropical cyclone ,1023
+disaster_59,Typhoon Wanda (1956) ,China ,Typhoon,4935
+disaster_60,1957 Hamadan Province earthquake ,Iran ,Earthquake ,1200
+disaster_61,Typhoon Ida (1958) ,Japan ,Tropical cyclone ,1269
+disaster_62,Typhoon Vera ,,Typhoon,"5,000"
+disaster_63,Severe Cyclonic Storm Ten ,Bangladesh,Tropical cyclone ,14174
+disaster_64,Cyclone Winnie ,,Tropical cyclone ,11468
+disaster_65,1962 Buin Zahra earthquake ,Iran ,Earthquake ,12225
+disaster_66,May 1963 East Pakistan II cyclone ,Bangladesh,Tropical cyclone ,22000
+disaster_67,Tropical Storm Joan (1964) ,Vietnam ,Tropical Storm,7000
+disaster_68,1965 Bengal cyclones ,Bangladesh,Tropical cyclone,47000
+disaster_69,1965 Bengal cyclones ,Bangladesh,Tropical cyclone,47000
+disaster_70,1966 Varto earthquake ,Turkey ,Earthquake ,2697
+disaster_71,1967 Pacific typhoon season ,Asia ,Typhoon ,934
+disaster_72,1968 Dasht-e Bayaz and Ferdows earthquakes ,Iran ,Earthquake ,15000
+disaster_73,1969 Yangjiang earthquake ,China ,Earthquake,3000
+disaster_74,1970 Bhola cyclone ,Bangladesh,Tropical cyclone ,300000
+disaster_75,Hanoi and Red River Delta flood ,North Vietnam ,Flood ,100000
+disaster_76,1972 Qir earthquake ,Iran ,Earthquake ,5374
+disaster_77,1973 Luhuo earthquake ,China ,Earthquake,2190
+disaster_78,Hurricane Fifi–Orlene ,Honduras,Tropical cyclone ,8210
+disaster_79,Hurricane Fifi–Orlene ,Nicaragua,Tropical cyclone ,8210
+disaster_80,Hurricane Fifi–Orlene ,El Salvador,Tropical cyclone ,8210
+disaster_81,Hurricane Fifi–Orlene ,Guatemala,Tropical cyclone ,8210
+disaster_82,Hurricane Fifi–Orlene ,Belize,Tropical cyclone ,8210
+disaster_83,Hurricane Fifi–Orlene ,Mexico ,Tropical cyclone ,8210
+disaster_84,Typhoon Nina (1975) ,China ,Typhoon,229000
+disaster_85,1976 Tangshan earthquake ,,Earthquake ,448885
+disaster_86,1977 Andhra Pradesh cyclone ,India ,Tropical cyclone ,30000
+disaster_87,1978 Tabas earthquake ,Iran ,Earthquake ,20000
+disaster_88,Hurricane David ,Dominican Republic,Tropical cyclone ,2069
+disaster_89,Hurricane David ,Dominica ,Tropical cyclone ,2069
+disaster_90,1980 El Asnam earthquake ,Algeria ,Earthquake ,5000
+disaster_91,1981 Golbaf earthquake ,Iran ,Earthquake ,3000
+disaster_92,1982 North Yemen earthquake ,Yemen ,Earthquake ,2800
+disaster_93,1983 Erzurum earthquake ,Turkey ,Earthquake ,1342
+disaster_94,Typhoon Ike ,Philippines ,Tropical cyclone ,1474
+disaster_95,Armero tragedy ,Colombia ,Volcanic eruption ,23000
+disaster_96,Lake Nyos disaster ,Cameroon ,Limnic eruption ,1746
+disaster_97,1987 Ecuador earthquakes ,Ecuador ,Earthquake ,5000
+disaster_98,1988 Armenian earthquake ,Armenia ,Earthquake ,25000
+disaster_99,1989 Sichuan flood ,China ,Flood ,3814
+disaster_100,1990 Manjil–Rudbar earthquake ,Iran ,Earthquake ,50000
+disaster_101,1991 Bangladesh cyclone ,Bangladesh ,Tropical cyclone ,138866
+disaster_102,1992 Flores earthquake and tsunami ,Indonesia ,Earthquake ,2500
+disaster_103,1992 Flores earthquake and tsunami ,Indonesia ,Tsunami ,2500
+disaster_104,1993 Latur earthquake ,India ,Earthquake ,9748
+disaster_105,1994 Páez River earthquake ,Colombia ,Earthquake ,1100
+disaster_106,Great Hanshin earthquake ,Japan ,Earthquake ,6434
+disaster_107,1996 Andhra Pradesh cyclone ,India ,Tropical cyclone ,1077
+disaster_108,Tropical Storm Linda (1997) ,Vietnam,Tropical cyclone ,3123
+disaster_109,Tropical Storm Linda (1997) ,Vietnam,Flood ,3123
+disaster_110,Tropical Storm Linda (1997) ,Thailand ,Tropical cyclone ,3123
+disaster_111,Tropical Storm Linda (1997) ,Thailand ,Flood ,3123
+disaster_112,Hurricane Mitch ,Honduras,Tropical cyclone ,11374
+disaster_113,Hurricane Mitch ,Nicaragua,Tropical cyclone ,11374
+disaster_114,Hurricane Mitch ,El Salvador,Tropical cyclone ,11374
+disaster_115,Hurricane Mitch ,Guatemala,Tropical cyclone ,11374
+disaster_116,Hurricane Mitch ,Belize,Tropical cyclone ,11374
+disaster_117,Hurricane Mitch ,Mexico ,Tropical cyclone ,11374
+disaster_118,1999 İzmit earthquake ,Turkey ,Earthquake ,17127
+disaster_119,2000 Mozambique flood ,Mozambique ,Flood ,800
+disaster_120,2001 Gujarat earthquake ,India ,Earthquake ,20085
+disaster_121,2002 Indian heat wave ,,Heat wave ,1030
+disaster_122,2003 European heat wave ,Europe ,Heat wave,72000
+disaster_123,2004 Indian Ocean earthquake,Indonesia,Earthquake,227898
+disaster_124,2004 Indian Ocean earthquake,Sri Lanka,Earthquake,227898
+disaster_125,2004 Indian Ocean earthquake,India,Earthquake,227898
+disaster_126,2004 Indian Ocean earthquake,Thailand,Earthquake,227898
+disaster_127,2004 Indian Ocean earthquake,Somalia ,Earthquake,227898
+disaster_128,2004 Indian Ocean tsunami ,Indonesia,Tsunami ,227898
+disaster_129,2004 Indian Ocean tsunami ,Sri Lanka,Tsunami ,227898
+disaster_130,2004 Indian Ocean tsunami ,India,Tsunami ,227898
+disaster_131,2004 Indian Ocean tsunami ,Thailand,Tsunami ,227898
+disaster_132,2004 Indian Ocean tsunami ,Somalia ,Tsunami ,227898
+disaster_133,2005 Kashmir earthquake ,India ,Earthquake ,87351
+disaster_134,2005 Kashmir earthquake ,Pakistan ,Earthquake ,87351
+disaster_135,2006 Yogyakarta earthquake ,Indonesia ,Earthquake ,5782
+disaster_136,Cyclone Sidr ,Bangladesh,Tropical cyclone ,15000
+disaster_137,Cyclone Sidr ,India ,Tropical cyclone ,15000
+disaster_138,Cyclone Nargis ,Myanmar ,Tropical cyclone,138373
+disaster_139,2009 Sumatra earthquakes ,Indonesia ,Earthquake ,1115
+disaster_140,2010 Haiti earthquake ,Haiti ,Earthquake ,208000
+disaster_141,2011 Tōhoku earthquake and tsunami ,Japan ,Earthquake,19749
+disaster_142,2011 Tōhoku earthquake and tsunami ,Japan ,Tsunami ,19749
+disaster_143,Typhoon Bopha ,Philippines ,Typhoon,1901
+disaster_144,Typhoon Haiyan ,Philippines,Typhoon,6340
+disaster_145,Typhoon Haiyan ,Vietnam ,Typhoon,6340
+disaster_146,Typhoon Haiyan ,China ,Typhoon,6340
+disaster_147,2014 Badakhshan mudslides ,Afghanistan ,Landslide ,2700
+disaster_148,April 2015 Nepal earthquake ,Nepal,Earthquake ,8964
+disaster_149,April 2015 Nepal earthquake ,India ,Earthquake ,8964
+disaster_150,2016 Indian heat wave ,India ,Heat wave ,1111
+disaster_151,Hurricane Maria ,Puerto Rico,Tropical cyclone ,3059
+disaster_152,Hurricane Maria ,Dominica ,Tropical cyclone ,3059
+disaster_153,2018 Sulawesi earthquake and tsunami ,Indonesia ,Earthquake,4340
+disaster_154,2018 Sulawesi earthquake and tsunami ,Indonesia ,Tsunami ,4340
+disaster_155,2019 European heat waves ,Europe ,Heat wave ,3951
+disaster_156,2020 Indian floods ,India,Flood ,1922
+disaster_157,2020 Indian floods ,Bangladesh ,Flood ,1922
+disaster_158,2021 Haiti earthquake ,Haiti ,Earthquake ,2248
+disaster_159,2022 European heat waves ,Europe ,Heat wave ,12125
